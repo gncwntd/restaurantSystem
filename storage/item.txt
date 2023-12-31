@@ -1,0 +1,4 @@
+Pizza,11.0,4
+hamburger,11.0,2
+lahmacun,4.0,6
+kebab,11.0,5
